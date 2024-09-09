@@ -6,3 +6,4 @@ print(4)
 print("Hello", 6)
 #ending a Sentence with a symbol
 print("Codingal", end="*") 
+print("done")
